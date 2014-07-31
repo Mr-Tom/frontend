@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/openphoto/frontend.png)](http://travis-ci.org/openphoto/frontend)
+This is a fork to get subdirectory installs working.
 
 ### What is Trovebox?
 
